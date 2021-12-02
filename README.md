@@ -1,0 +1,2 @@
+# DjangoToDo
+ Learning Django
